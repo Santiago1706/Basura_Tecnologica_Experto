@@ -151,7 +151,14 @@
 
     <section id="impacto">
         <h2>Experto en impacto ambiental</h2>
-        <p><body>
+        <p> <title>Gestión de Residuos de Aparatos Eléctricos y Electrónicos (RAEE) en Cali</title>
+    <style>
+        body {
+            color: black;
+        }
+    </style>
+</head>
+<body>
     <h1>Gestión de Residuos de Aparatos Eléctricos y Electrónicos (RAEE) en Cali</h1>
     <p>El reciclaje y reutilización de residuos de aparatos eléctricos y electrónicos (RAEE) es un proceso complejo que implica diversas etapas técnicas y logísticas para asegurar que los materiales recuperados se puedan reincorporar de manera efectiva en la cadena de producción. A continuación, se detalla cómo se lleva a cabo este proceso en Cali:</p>
 
@@ -231,8 +238,7 @@
     <h2>Fuentes de Información</h2>
     <p><strong>Sitios Web y Portales Informativos:</strong></p>
     <ul>
-        <li><strong>Ministerio de Ambiente y Desarrollo Sostenible de Colombia:</strong> Proporciona información sobre políticas y programas nacionales relacionados con la gestión de RAEE.
-            <br><a href="https://www.minambiente.gov.co</p>
+        <li><strong>Ministerio de Ambiente y Desarrollo Sostenible de Colombia:</strong> Proporciona información sobre políticas y programas nacionales relacionados con la gestión de</p>
     </section>
 
     <section id="contacto">
