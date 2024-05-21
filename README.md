@@ -238,7 +238,8 @@
     <h2>Fuentes de Información</h2>
     <p><strong>Sitios Web y Portales Informativos:</strong></p>
     <ul>
-        <li><strong>Ministerio de Ambiente y Desarrollo Sostenible de Colombia:</strong> Proporciona información sobre políticas y programas nacionales relacionados con la gestión de</p>
+        <li><strong>Ministerio de Ambiente y Desarrollo Sostenible de Colombia:</strong> Proporciona información sobre políticas y programas nacionales relacionados con la gestión de RAEE
+        </p>
     </section>
 
     <section id="contacto">
