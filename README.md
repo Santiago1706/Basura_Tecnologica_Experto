@@ -154,7 +154,7 @@
         <p> <title>Gestión de Residuos de Aparatos Eléctricos y Electrónicos (RAEE) en Cali</title>
     <style>
         body {
-            color: black;
+            color: grey;
         }
     </style>
 </head>
