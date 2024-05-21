@@ -249,11 +249,11 @@
 
     <!-- Sección para la lista de imágenes -->
     <section class="galery">
-        <div style="background-image: url('https://ideogram.ai/assets/image/list/response/pEfXHfeZQzKx_UU6RyDqRg');"></div>
-        <div style="background-image: url('https://ideogram.ai/assets/image/list/response/JejUxRTLQsOp6VpD6rOOiQ');"></div>
-        <div style="background-image: url('https://ideogram.ai/assets/image/list/response/hk4b1SxsRmaVC43tHJKaUQ');"></div>
-        <div style="background-image: url('https://ideogram.ai/assets/image/list/response/NRqhMQL8RwGVISAUbabqXw');"></div>
-        <div style="background-image: url('https://ideogram.ai/assets/image/list/response/ny6BjJAeSLSiGAlIDmZHow');"></div>
+        <div style="background-image: url('https://ideogram.ai/g/7E7IyAuEQt6Dt0IM8gL3pA/1');"></div>
+        <div style="background-image: url('https://ideogram.ai/g/-LAKmFmaRvWpyouYZTtZQA/2');"></div>
+        <div style="background-image: url('https://ideogram.ai/g/V7FGwxVaQc-fsNS27MzR5A/1');"></div>
+        <div style="background-image: url('https://ideogram.ai/g/bZjup9QFQImqshjyVDUosA/3');"></div>
+        <div style="background-image: url('https://ideogram.ai/g/7E7IyAuEQt6Dt0IM8gL3pA/3');"></div>
     </section>
 
     <footer>
