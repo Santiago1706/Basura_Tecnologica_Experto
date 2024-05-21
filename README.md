@@ -243,8 +243,12 @@
     </section>
 
     <section id="contacto">
-        <h2>Comunicador</h2>
-        <p>Contenido de contacto...</p>
+        <h2>REFERENCIAS</h2>
+        <p><ol>
+        <li id="ref1"> Mi Ambiente. <a href="https://www.minambiente.gov.co/">https://www.minambiente.gov.co/</a></li>
+       <li id="ref1"> Residuos de aparatos electronicos. <a href="https://www.minambiente.gov.co/asuntos-ambientales-sectorial-y-urbana/residuos-de-aparato-electricos-y-electronicos-raee//https://www.minambiente.gov.co/asuntos-ambientales-sectorial-y-urbana/residuos-de-aparato-electricos-y-electronicos-raee/">/</a></li>
+
+    </ol>.</p>
     </section>
 
     <!-- Sección para la lista de imágenes -->
