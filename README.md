@@ -139,15 +139,7 @@
             </nav>
     </header>
 
-    <section id="descripcion">
-        <h2>Investigador Principal</h2>
-        <p>Contenido de la descripción del proyecto...</p> 
-    </section>
-
-    <section id="funcionamiento">
-        <h2>Analista de tipos de basura tecnológica</h2>
-        <p>Contenido del funcionamiento...</p>
-    </section>
+    
 
     <section id="impacto">
         <h2>Experto en impacto ambiental</h2>
